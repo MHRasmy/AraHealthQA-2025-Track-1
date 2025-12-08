@@ -1,0 +1,10 @@
+torch
+transformers
+bitsandbytes
+langchain
+langchain-community
+langchain-groq
+pandas
+tqdm
+python-dotenv
+huggingface-hub
