@@ -1,6 +1,6 @@
 # AraHealthQA 2025 – Track 1 (Tasks 1–3)
 
-MINDWELL is a unified system that pairs Qwen-3 and SILMA across prompting, few-shot learning, PEFT, and instruction tuning, then anchors responses with a multi-agent RAG pipeline, bridging the gap in Arabic mental-health QA where prior work is small-scale, under-represented, and rarely couples multi-label classification with grounded generation for dialect- and terminology-diverse users.
+FAHMNI is a unified system that pairs Qwen-3 and SILMA across prompting, few-shot learning, PEFT, and instruction tuning, then anchors responses with a multi-agent RAG pipeline, bridging the gap in Arabic mental-health QA where prior work is small-scale, under-represented, and rarely couples multi-label classification with grounded generation for dialect- and terminology-diverse users.
 
 Monorepo with runnable scripts for the three subtasks:
 - **Task 1**: Question Classification (labels: information, guidance, emotional support)
